@@ -1,13 +1,25 @@
 ﻿<script>
-    var cepMask = IMask(
-        document.getElementById('CEP'), {
-        mask: [
-            {
-                mask: '00000-000',
+        document.addEventListener("DOMContentLoaded", function () {
+        var cepInput = document.getElementById('CEP');
 
-            }
-        ],
-        lazy: true,
-        placeholderChar: '_'
+        var cepMask = IMask(cepInput, {
+            mask: '00000-000',
+            lazy: true
+        });
+
+        var forms = document.querySelectorAll('form');
+        forms.forEach(function (form) {
+            form.addEventListener('submit', function () {
+                cepInput.value = cepMask.unmaskedValue;
+            });
+        });
+
+        var rgInput = document.getElementById('RG');
+        if (rgInput) {
+            var rgMask = IMask(rgInput, {
+                mask: '00.000.000-0',
+                lazy: true,
+            });
+        }
     });
 </script>

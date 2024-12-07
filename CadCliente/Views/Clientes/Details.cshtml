@@ -85,7 +85,7 @@
             @Html.DisplayNameFor(model => model.CEP)
         </dt>
         <dd class="col-sm-10">
-            @Html.DisplayFor(model => model.CEP)
+            @Html.Raw(String.Format("{0:#####-###}", long.Parse(Model.CEP)))
         </dd>
 
         <dt class="col-sm-2">

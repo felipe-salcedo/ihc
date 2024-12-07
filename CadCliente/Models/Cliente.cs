@@ -5,6 +5,7 @@ namespace CadCliente.Models
     public class Cliente
     {
         [Key]
+        [Display(Name = "Código")]
         public int Id { get; set; }
 
         [Required(ErrorMessage = "Informe o nome completo")]
