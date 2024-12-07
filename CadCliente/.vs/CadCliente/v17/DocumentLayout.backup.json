@@ -3,48 +3,8 @@
   "WorkspaceRootPath": "D:\\Users\\felipe\\source\\repos\\CadCliente\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{93190022-24A4-404A-8026-779808DB4831}|CadCliente.csproj|d:\\users\\felipe\\source\\repos\\cadcliente\\views\\clientes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{93190022-24A4-404A-8026-779808DB4831}|CadCliente.csproj|solutionrelative:views\\clientes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{93190022-24A4-404A-8026-779808DB4831}|CadCliente.csproj|d:\\users\\felipe\\source\\repos\\cadcliente\\views\\clientes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{93190022-24A4-404A-8026-779808DB4831}|CadCliente.csproj|solutionrelative:views\\clientes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{93190022-24A4-404A-8026-779808DB4831}|CadCliente.csproj|d:\\users\\felipe\\source\\repos\\cadcliente\\views\\shared\\_imaskclientepartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{93190022-24A4-404A-8026-779808DB4831}|CadCliente.csproj|solutionrelative:views\\shared\\_imaskclientepartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{93190022-24A4-404A-8026-779808DB4831}|CadCliente.csproj|d:\\users\\felipe\\source\\repos\\cadcliente\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{93190022-24A4-404A-8026-779808DB4831}|CadCliente.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{93190022-24A4-404A-8026-779808DB4831}|CadCliente.csproj|d:\\users\\felipe\\source\\repos\\cadcliente\\views\\clientes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{93190022-24A4-404A-8026-779808DB4831}|CadCliente.csproj|solutionrelative:views\\clientes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{93190022-24A4-404A-8026-779808DB4831}|CadCliente.csproj|d:\\users\\felipe\\source\\repos\\cadcliente\\views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{93190022-24A4-404A-8026-779808DB4831}|CadCliente.csproj|solutionrelative:views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{93190022-24A4-404A-8026-779808DB4831}|CadCliente.csproj|d:\\users\\felipe\\source\\repos\\cadcliente\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93190022-24A4-404A-8026-779808DB4831}|CadCliente.csproj|solutionrelative:controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{93190022-24A4-404A-8026-779808DB4831}|CadCliente.csproj|d:\\users\\felipe\\source\\repos\\cadcliente\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93190022-24A4-404A-8026-779808DB4831}|CadCliente.csproj|solutionrelative:models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{93190022-24A4-404A-8026-779808DB4831}|CadCliente.csproj|d:\\users\\felipe\\source\\repos\\cadcliente\\migrations\\20241125171656_novascolunas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93190022-24A4-404A-8026-779808DB4831}|CadCliente.csproj|solutionrelative:migrations\\20241125171656_novascolunas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{93190022-24A4-404A-8026-779808DB4831}|CadCliente.csproj|d:\\users\\felipe\\source\\repos\\cadcliente\\migrations\\20241125170811_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93190022-24A4-404A-8026-779808DB4831}|CadCliente.csproj|solutionrelative:migrations\\20241125170811_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{93190022-24A4-404A-8026-779808DB4831}|CadCliente.csproj|d:\\users\\felipe\\source\\repos\\cadcliente\\migrations\\20241205192256_adicionarcamposcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93190022-24A4-404A-8026-779808DB4831}|CadCliente.csproj|solutionrelative:migrations\\20241205192256_adicionarcamposcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,149 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\Users\\felipe\\source\\repos\\CadCliente\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
               "ToolTip": "D:\\Users\\felipe\\source\\repos\\CadCliente\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC4AAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-07T17:52:42.973Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_ImaskClientePartial.cshtml",
-              "DocumentMoniker": "D:\\Users\\felipe\\source\\repos\\CadCliente\\Views\\Shared\\_ImaskClientePartial.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_ImaskClientePartial.cshtml",
-              "ToolTip": "D:\\Users\\felipe\\source\\repos\\CadCliente\\Views\\Shared\\_ImaskClientePartial.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_ImaskClientePartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-07T17:51:36.699Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Users\\felipe\\source\\repos\\CadCliente\\Views\\Clientes\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Clientes\\Index.cshtml",
-              "ToolTip": "D:\\Users\\felipe\\source\\repos\\CadCliente\\Views\\Clientes\\Index.cshtml",
-              "RelativeToolTip": "Views\\Clientes\\Index.cshtml",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAAAGEAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-05T21:58:27.609Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "D:\\Users\\felipe\\source\\repos\\CadCliente\\Views\\Clientes\\Details.cshtml",
-              "RelativeDocumentMoniker": "Views\\Clientes\\Details.cshtml",
-              "ToolTip": "D:\\Users\\felipe\\source\\repos\\CadCliente\\Views\\Clientes\\Details.cshtml",
-              "RelativeToolTip": "Views\\Clientes\\Details.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAFcAAABMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-05T21:58:10.741Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\Users\\felipe\\source\\repos\\CadCliente\\Views\\Clientes\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Clientes\\Create.cshtml",
-              "ToolTip": "D:\\Users\\felipe\\source\\repos\\CadCliente\\Views\\Clientes\\Create.cshtml",
-              "RelativeToolTip": "Views\\Clientes\\Create.cshtml",
-              "ViewState": "AgIAAGYAAAAAAAAAAADwv3wAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-02T16:45:44.968Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "20241125170811_Inicial.cs",
-              "DocumentMoniker": "D:\\Users\\felipe\\source\\repos\\CadCliente\\Migrations\\20241125170811_Inicial.cs",
-              "RelativeDocumentMoniker": "Migrations\\20241125170811_Inicial.cs",
-              "ToolTip": "D:\\Users\\felipe\\source\\repos\\CadCliente\\Migrations\\20241125170811_Inicial.cs",
-              "RelativeToolTip": "Migrations\\20241125170811_Inicial.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T17:08:12.114Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ClientesController.cs",
-              "DocumentMoniker": "D:\\Users\\felipe\\source\\repos\\CadCliente\\Controllers\\ClientesController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ClientesController.cs",
-              "ToolTip": "D:\\Users\\felipe\\source\\repos\\CadCliente\\Controllers\\ClientesController.cs",
-              "RelativeToolTip": "Controllers\\ClientesController.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAgwEoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T17:07:59.517Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Cliente.cs",
-              "DocumentMoniker": "D:\\Users\\felipe\\source\\repos\\CadCliente\\Models\\Cliente.cs",
-              "RelativeDocumentMoniker": "Models\\Cliente.cs",
-              "ToolTip": "D:\\Users\\felipe\\source\\repos\\CadCliente\\Models\\Cliente.cs",
-              "RelativeToolTip": "Models\\Cliente.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAcwAcAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T16:42:17.124Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\Users\\felipe\\source\\repos\\CadCliente\\Views\\Clientes\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Views\\Clientes\\Edit.cshtml",
-              "ToolTip": "D:\\Users\\felipe\\source\\repos\\CadCliente\\Views\\Clientes\\Edit.cshtml",
-              "RelativeToolTip": "Views\\Clientes\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-05T20:00:47.806Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "20241125171656_NovasColunas.cs",
-              "DocumentMoniker": "D:\\Users\\felipe\\source\\repos\\CadCliente\\Migrations\\20241125171656_NovasColunas.cs",
-              "RelativeDocumentMoniker": "Migrations\\20241125171656_NovasColunas.cs",
-              "ToolTip": "D:\\Users\\felipe\\source\\repos\\CadCliente\\Migrations\\20241125171656_NovasColunas.cs",
-              "RelativeToolTip": "Migrations\\20241125171656_NovasColunas.cs",
-              "ViewState": "AgIAAFgAAAAAAAAAAAAqwHwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T17:16:56.909Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "20241205192256_AdicionarCamposCliente.cs",
-              "DocumentMoniker": "D:\\Users\\felipe\\source\\repos\\CadCliente\\Migrations\\20241205192256_AdicionarCamposCliente.cs",
-              "RelativeDocumentMoniker": "Migrations\\20241205192256_AdicionarCamposCliente.cs",
-              "ToolTip": "D:\\Users\\felipe\\source\\repos\\CadCliente\\Migrations\\20241205192256_AdicionarCamposCliente.cs",
-              "RelativeToolTip": "Migrations\\20241205192256_AdicionarCamposCliente.cs",
-              "ViewState": "AgIAAGQAAAAAAAAAAAAgwJUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T19:22:57.147Z",
+              "WhenOpened": "2024-12-07T18:41:13.873Z",
               "EditorCaption": ""
             }
           ]
