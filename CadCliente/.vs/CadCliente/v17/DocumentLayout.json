@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\felipe\\source\\repos\\CadCliente\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93190022-24A4-404A-8026-779808DB4831}|CadCliente.csproj|d:\\users\\felipe\\source\\repos\\cadcliente\\migrations\\20241209171832_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93190022-24A4-404A-8026-779808DB4831}|CadCliente.csproj|solutionrelative:migrations\\20241209171832_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20241209171832_Inicial.cs",
+              "DocumentMoniker": "D:\\Users\\felipe\\source\\repos\\CadCliente\\Migrations\\20241209171832_Inicial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241209171832_Inicial.cs",
+              "ToolTip": "D:\\Users\\felipe\\source\\repos\\CadCliente\\Migrations\\20241209171832_Inicial.cs",
+              "RelativeToolTip": "Migrations\\20241209171832_Inicial.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T17:18:33.092Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
